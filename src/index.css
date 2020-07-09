@@ -1,0 +1,10 @@
+html {
+	background-color: #ff9d7c !important;
+}
+.box.boxmarpa {
+	margin: 8rem;
+}
+button {
+	border-radius: 50% !important;
+	background-color: rgb(153, 205, 50) !important;
+}
